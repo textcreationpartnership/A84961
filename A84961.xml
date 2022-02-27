@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of a most barbarous murther and robbery committed by John Davis on the body of Esq. Bowles's lady, at Cleaver, near Windsor ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84961</idno>
+            <idno type="STC">Wing F2293F</idno>
+            <idno type="STC">ESTC R42503</idno>
+            <idno type="EEBO-CITATION">36282153</idno>
+            <idno type="OCLC">ocm 36282153</idno>
+            <idno type="VID">150061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of a most barbarous murther and robbery committed by John Davis on the body of Esq. Bowles's lady, at Cleaver, near Windsor ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.H. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Imperfect: stained and tightly bound.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bowles, Martha, d. 1699.</term>
+               <term>Davis, John, --  murderer.</term>
+               <term>Murder --  England.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150061:1" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT OF A MOST <hi>Barbarous Murther and Robbery</hi> COMMITTED BY John Davis, On the Body of Esq; Bowles's Lady,</head>
+            <argument>
+               <p>At <hi>Cleaver</hi> near <hi>Windſor:</hi> Particularly, How being Servant to her, he for the Lucre of her Money beat her Brains out in the Night with a Bar of Iron, and afterwards Cut her Throat from Ear to Ear in a moſt Barbarous manner, and afterwards Robb'd the Houſe of 300 Pounds in Gold, beſides Watches, Rings, <hi>&amp;c.</hi> of great value.</p>
+               <p>With the manner of its being conceal'd near a Fortnight, before the Murther was found out, as alſo the ſtrange and remarkable Diſcovery thereof.</p>
+               <p>
+                  <hi>To which is added,</hi> The Reward of <hi>50 l.</hi> offered by Esq; <hi>Bowles</hi> to any who ſhall take and apprehend the Murtherer, with the Deſcription of his Perſon, Age, Habit and Complexion, how to know him.</p>
+            </argument>
+            <p>
+               <hi>ALtho' many Tragical Actions of this Nature, have been often Committed of late, by ſeveral Barbarous and Bloody minded Villians, yet this Notorious Barbarity following, conſidering it in all its Fatal and Notorious Circumſtances; equa<g ref="char:EOLhyphen"/>lizes<g ref="char:punc">▪</g> if not exceeds all that hitherto hath been heard of, and the rather, becauſe the Perſon concern'd was a pretended faithful Servant to the unhappy deceaſed Lady; as the particulars following more largely manifeſts.</hi>
+            </p>
+            <p>The Worſhipful <hi>Charles Bowles</hi> Esq; having upon the Requeſt of his Lady Madam <hi>Martha Bowles,</hi> by reaſon of her Age, and continual Indiſpoſition, appointed her a Farm-houſe at <hi>Cleaver,</hi> within a Mile of <hi>Windſor,</hi> to live privately and retired, ap<g ref="char:EOLhyphen"/>pointing one <hi>John Davis,</hi> a Man-Servant, only to wait on her, and to manage the Buſineſs relating to the Farm; tho' according to her deſire, he went every Night to <hi>Windſor</hi> to lodge, and return'd each Morning to the ſaid Farm about his Buſineſs, which he had perform'd to all appearance, two Years ſucceſſively very faithfully, to the ap<g ref="char:EOLhyphen"/>probation not only of Esq; <hi>Bowles</hi> his Maſter, but the Ancient Gentlewoman alſo, with whom he lived.</p>
+            <p>But obſerve the dreadful effects of Covetouſneſs, how ſtrangely it opperates on the Minds and Affections of thoſe where Grace is wanting: For <hi>John Davis,</hi> her aforeſaid Servant, having ſometimes at the deſire of his Lady, remov'd ſome Cheſts, and other things for her, particularly a Trunk, which he perceived by its weight to be well fur<g ref="char:EOLhyphen"/>niſhed with ſtore of Treaſure, he from that time, as 'tis ſuppoſed, cove<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to have in his Poſſeſſion; for on the <hi>22d.</hi> of <hi>September</hi> laſt, (as near as can be conjectured by his Lady not coming abroad as uſually) he not having the fear of God be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore his Eyes, and being void of all natural pity and human compaſſion, took a Bar of Iron, and beat his poor innocent Ladies Brains out, with the repitition of ſeveral othre dreadful and un<g ref="char:EOLhyphen"/>merciful Blows on ſeveral parts of the Body, as plainly is made manifeſt by the plu<g ref="char:EOLhyphen"/>rality of Bruiſes, as well on the Head and Arms, as on other parts, the which was done (as ſome think) in order to force her to diſcover ſome more than ordinary valuable Treaſure.</p>
+            <p>But not ſatisfied with this inhuman Cruelty, he to make the Villany more Barba<g ref="char:EOLhyphen"/>rous, Tragical and Fatal, cut her Throat in a diſmal and bloody manner, the Wound extending from Ear to Ear, leaving the Aged and unfortunate Lady weltring in her Blood, and then fell to plundring the Houſe, eſpecially the Trunks, Cheſts and Clo<g ref="char:EOLhyphen"/>ſets,
+<pb facs="tcp:150061:2" rendition="simple:additions"/> where he ſuppoſed to find the moſt Treaſure, from whence, as 'tis ſaid, he took to the value of near three Hundred Pound in Gold and Silver, 200 pieces of Old Gold, having been ſince found in a <hi>Trunk</hi> at his <hi>Lodings</hi> in <hi>Peſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od-ſtreet</hi> in <hi>Wind<g ref="char:EOLhyphen"/>ſor?</hi> So that 'tis plain matter of Fact, that he was the Author of that notorious Acti<g ref="char:EOLhyphen"/>on. But to proceed: He having perform'd this Tragical Scene of Barbarty, and ſecur'd his Booty, he lock'd all the doors, and march'd off; but ſome few days after, had the impudent boldneſs to go to <hi>London,</hi> to the <hi>White-horſe</hi> in <hi>Fleet-ſtreet,</hi> and there told the <hi>Windſor</hi> Coachman, and others, that his Father, who formerly had been a Troo<g ref="char:EOLhyphen"/>per in the Earl of <hi>Oxford</hi>'s Regiment was lately dead, and had left him 400 pound; adding, <hi>That tho his Father in his Life time did reject him for being undutiful, yet he had remembred him at his Death; therefore he was reſolv'd to live like a Gentleman:</hi> And thereupon not only bought a brave Cloaths but Rings to his finger, and a Sword to his ſide: and not only ſo, but pull'd a handful of Guineas out of his Pocket, and ſwagger'd at a very ſtrange bold and extravagant rate, treating all who would keep him company; and that which is moſt to be wondred at, with thoſe who knew from whence he came, and with whom he had lived.</p>
+            <p>Esq; <hi>Bowles</hi> her Husband coming to <hi>Clea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> on <hi>Sunday</hi> laſt, asked ſome of the Town, how his Wife did, who was anſwered, That they had not ſeen her for near a Fortnight, therefore doubted that ſhe was not well, by reaſon ſhe did not walk in her Garden as uſual: Upon which the Squire ſending his Man to the Houſe, to enquire of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Wel<g ref="char:EOLhyphen"/>fare, found the Doors not only ſhut, but lock'd faſt, and the Key taken thence; ſo that returning to the Esq; inform'd him thereof; whereupon immediately by the Eſqrs; Orders, the Door was forced open, when ſearching about t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Houſe, at laſt the unfor<g ref="char:EOLhyphen"/>tunate Gentlewoman was found Murthered in a moſt Barbarous and wretched manner, as aforeſaid; where was found by her the Iron Bar with (as 'tis conjectured) her Murtherer ſtruck her with, before he cut her Throat: During this hurry and amaze<g ref="char:EOLhyphen"/>ment, occaſion'd by the diſcovery of this dreadful Accident, and notorious Robbery,</p>
+            <p>The People then being at Church, ſome diſorder was obſerved among them by one going out after another; at which ti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the aforeſaid <hi>John Davis,</hi> being there alſo and having a guilty Conſcience, was obſerved to go out with all the haſt imaginable, and went directly away and took Horſe, and that means made his eſcape before any Perſon could ground ſuſpition of his being Guilty of his Ladies Murther, and the ra<g ref="char:EOLhyphen"/>ther by reaſon, he ſo frequently came backwards and forwards too and from thence as before, tho' indeed his being ſo full of Money all on a ſuddain, and his being ſo finely equipt was not a little wondred at; notwithſtanding his repeated pretences re<g ref="char:EOLhyphen"/>lating to the Legacy his Father had ſo lately and largely beſtowed upon him: 'Tis ſtrangely remarkable, that this Notorious and Wicked Perſon having perform'd ſuch a Barbarous and Wicked Action of Murther and Robbery, ſhould notwithſtand; be ſo Abominable Impudent and Preſumptiouſly bold as to appear publickly in the ſame Town ſo often where the ſaid Bloody Tragedy was Acted; ſo that neither Terror of Conſcience nor dread of Puniſhment for ſuch a Loathſome Crime, made any Senſible Impreſſion upon him, is a thing altogether ſtrange and uncommon, provided all Cir<g ref="char:EOLhyphen"/>cumſtances be conſidered.</p>
+            <p>For the better Diſcovery and Apprehending the ſaid Murtherer; Esq; <hi>Bowles</hi> has not only Iſſued out Hue and Cryes ſeveral ways but hath offered a Reward of 50 <hi>l.</hi> to any who ſhall Take and Apprehend him the particulars, (as in the laſt Gazet) I have inſerted as followeth.</p>
+            <p>
+               <hi>Whereas about the 22d. of</hi> September <hi>laſt, a Barbarous Murther was Committed on the Body of Mrs.</hi> Martha Bowles, <hi>in her Houſe at</hi> Cleaver <hi>near</hi> Windſor, <hi>by one</hi> John Davis <hi>alias Country</hi> Jack, <hi>who Robb'd her of near</hi> 300 Guineas, <hi>He is well ſet, about</hi> 24 <hi>years of Age, Strait, Brown Hair, Fair Complection, Wears a New Gray Coat, Lin'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Black, with Black Button Holes, Red Britches ſtrip'd with black a Black Hat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, with a White broad Hatband, Rod away from</hi> Windſor <hi>on</hi> Sunday <hi>laſt, upon a Brow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bay Gelding</hi> 14 <hi>hands high, whoever ſhall Apprehend and Secure him, that he may b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Convicted: Shall Receive of</hi> Charles Bowles <hi>Esq; of</hi> Clever <hi>aforeſaid, Fifty Pound.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>A. H.</hi> near <hi>Alderſgate,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
